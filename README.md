@@ -38,7 +38,7 @@ Alternatively use this link to go through instalation: [Instaling VM](https://cl
 1. Unzip and get the newsdata.sql file.
 1. Paste the newsdata.sql file into the vagrant directory
 1. Inside  vagrant directory create new directory called: project-1-log-analysis
-1. Download this project to you laptop: [log analysis](https://github.com/michellejl/log_analysis)
+1. Download this project to you laptop: [log analysis](https://github.com/ErwinWoz/project-1-log-alalysis)
 1. Upzip and copy all 3 files into the directory called project-1-log-analysis that you have just created
 
 ## Running the project
