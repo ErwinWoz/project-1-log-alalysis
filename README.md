@@ -10,7 +10,7 @@ Urer is required to use single query to answer each question.
 	Example:
 	```bash
 	Princess Shellfish Marries Prince Handsome		1201 views
- 	Baltimore Ravens Defeat Rhode Island Shoggoths	915 views
+ 	Baltimore Ravens Defeat Rhode Island Shoggoths		915 views
  	Political Scandal Ends In Political Scandal		553 views
  	```
 
